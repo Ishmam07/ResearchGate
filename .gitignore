@@ -5,3 +5,12 @@ dist/
 .env
 .env.*
 !.env.example
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven build output
+/backend/target/
